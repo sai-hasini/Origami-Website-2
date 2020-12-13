@@ -1,0 +1,117 @@
+img {
+    border: solid;
+    border-color: black;
+}
+
+.header {
+    display: flex;
+    color: #ff6666;
+    background-color: #606060;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}    
+
+.teddy-bear {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.flying-cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.crab {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+.swan {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: mistyrose;
+}
+
+body {
+    background-image: url("images/bg.png");
+    background-size: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+}
+
+.intro {
+    background-color: mistyrose;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
